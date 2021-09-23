@@ -6,10 +6,14 @@ body {
 }
 
 :root {
-    --primary-color: #00203FFF;
-    --secondary1-color: #ADEFD1FF;
-    --secondary-color:#059669;
-    --off-white: #9CA3AF;
+    --primary-color: 
+#B91C1C;
+    --secondary1-color: 
+#F87171;
+    --secondary-color:
+#F87171;
+    --off-white: 
+#F3F4F6;
     --primary1-color: rgb(223,103,140);
     --secondary2-color: rgb(61,21,255);
 }
